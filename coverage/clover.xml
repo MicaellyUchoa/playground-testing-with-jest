@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1681923752395" clover="3.2.0">
+  <project timestamp="1681923752395" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1" elements="14" coveredelements="12" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="index.tsx" path="/Users/cora/Documents/testing-with-jest-useState/src/components/UseStateTesting/index.tsx">
+      <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
